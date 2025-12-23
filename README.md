@@ -12,18 +12,20 @@
 
 <h3>🤖 Languages </h3>
 
+<p align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
 
 <h3>💻 Frameworks & Libraries </h3>
-
+<p align="center">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
+</p>
 ---
 
 <h3>📊 GitHub Stats</h3>
@@ -36,7 +38,7 @@
   
 </table>
 
-<table style="width:100%">
+<table style="width:100%" align="center">
   <tr>
     <td> <img src="https://nirzak-streak-stats.vercel.app/?user=dixheptagon&theme=dark&hide_border=true" alt="dixheptagon" /></td>    
   </tr>
