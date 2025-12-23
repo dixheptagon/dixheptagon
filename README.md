@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Foren <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>
 
-<!--
-**dixheptagon/dixheptagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://www.linkedin.com/in/forentino-haryanto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="mailto:forentinoharyanto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="https://x.com/dixheptagon"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
+</p>
 
-Here are some ideas to get you started:
+<p>Full-stack web developer with experience in Next.js, Express.js, Prisma, and PostgreSQL. Curious learner, problem solver, and open to entry-level opportunities.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3>🤖 Languages </h3>
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<h3>💻 Frameworks & Libraries </h3>
+
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+---
+
+<h3>📊 GitHub Stats</h3>
+
+<table style="width:100%">
+  <tr>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=dixheptagon&show_icons=true&theme=dark&locale=en&hide_border=true" alt="dixheptagon" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixheptagon&theme=dark&hide_border=true&layout=compact"></td>
+  </tr>
+  
+</table>
+
+<table style="width:100%">
+  <tr>
+    <td> <img src="https://nirzak-streak-stats.vercel.app/?user=dixheptagon&theme=dark&hide_border=true" alt="dixheptagon" /></td>    
+  </tr>
+</table>
